@@ -1,0 +1,23 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "homeBottomNavigationBarItemTitle": "Home",
+    "@homeBottomNavigationBarItemTitle": {
+        "description": "Home bottom navigation bar title"
+    },
+    "searchBottomNavigationBarItemTitle": "Search",
+    "@searchBottomNavigationBarItemTitle": {
+        "description": "Search bottom navigation bar title"
+    },
+    "favoriteBottomNavigationBarItemTitle": "Favorite",
+    "@favoriteBottomNavigationBarItemTitle": {
+        "description": "Favorite bottom navigation bar title"
+    },
+    "profileBottomNavigationBarItemTitle": "Profile",
+    "@profileBottomNavigationBarItemTitle": {
+        "description": "Profile bottom navigation bar title"
+    }
+}

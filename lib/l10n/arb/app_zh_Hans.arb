@@ -1,0 +1,23 @@
+{
+    "@@locale": "zh_Hans",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "homeBottomNavigationBarItemTitle": "首页",
+    "@homeBottomNavigationBarItemTitle": {
+        "description": "首页底部导航栏标题"
+    },
+    "searchBottomNavigationBarItemTitle": "搜索",
+    "@searchBottomNavigationBarItemTitle": {
+        "description": "搜索底部导航栏标题"
+    },
+    "favoriteBottomNavigationBarItemTitle": "收藏",
+    "@favoriteBottomNavigationBarItemTitle": {
+        "description": "收藏底部导航栏标题"
+    },
+    "profileBottomNavigationBarItemTitle": "我的",
+    "@profileBottomNavigationBarItemTitle": {
+        "description": "个人信息底部导航栏标题"
+    }
+}
